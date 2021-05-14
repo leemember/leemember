@@ -2,7 +2,7 @@
 
 # Hello 👏
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B7E396&title_bg=%23F1CBCB&icon=waze.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://github.com/leemember)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23B7E396&title_bg=%23F1CBCB&icon=smugmug.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://github.com/leemember)
 
 ## ✨ Web Front-END Stack ✨
 
