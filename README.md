@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Mobx-FF9955?style=flat-square&logo=Mobx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-FD2251?style=flat-square&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/React-query-0000123?style=flat-square&logo=ReactQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-0000123?style=flat-square&logo=ReactQuery&logoColor=white"/>
 </div>
 
 ## ✨ Cowork tools ✨
